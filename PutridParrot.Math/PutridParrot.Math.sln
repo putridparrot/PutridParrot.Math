@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PutridParrot.Math", "PutridParrot.Math\PutridParrot.Math.csproj", "{F1452EF4-5E76-437F-9D93-C9FE81C99C10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PutridParrot.Math.4.7.1", "PutridParrot.Math.4.7.1\PutridParrot.Math.4.7.1.csproj", "{33B9F271-3C7A-4591-8662-1B9847684F5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.PutridParrot.Math", "Tests.PutridParrot.Math\Tests.PutridParrot.Math.csproj", "{CE985107-AF13-4D45-B576-E115B6795A79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1452EF4-5E76-437F-9D93-C9FE81C99C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1452EF4-5E76-437F-9D93-C9FE81C99C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1452EF4-5E76-437F-9D93-C9FE81C99C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1452EF4-5E76-437F-9D93-C9FE81C99C10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B9F271-3C7A-4591-8662-1B9847684F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B9F271-3C7A-4591-8662-1B9847684F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B9F271-3C7A-4591-8662-1B9847684F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B9F271-3C7A-4591-8662-1B9847684F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE985107-AF13-4D45-B576-E115B6795A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE985107-AF13-4D45-B576-E115B6795A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE985107-AF13-4D45-B576-E115B6795A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE985107-AF13-4D45-B576-E115B6795A79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FC08D5B-BBDA-4519-8DE8-75E605B5C4D9}
+	EndGlobalSection
+EndGlobal
